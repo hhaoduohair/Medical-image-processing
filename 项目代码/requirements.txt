@@ -1,0 +1,21 @@
+# 核心依赖
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.30.0
+sentencepiece>=0.1.99
+
+# RAG 向量检索
+chromadb>=0.4.22
+sentence-transformers>=2.7.0
+
+# 图像处理
+opencv-python>=4.9.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# 工具
+tqdm>=4.66.0
+
+# 评测
+scikit-learn>=1.4.0
+pandas>=2.1.0
